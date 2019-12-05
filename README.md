@@ -21,8 +21,8 @@ The goals / steps of this project are the following:
 
 [image1]: ./figures/class_distribution_in_traffic_sign_dataset.png
 [image2]: ./figures/example_rbg.png
-[image3]: ./figures/random_sampels_from_data_augmentation.png
-[image4]: ./figures/random_images_from_training_set.png
+[image3]: ./figures/random_samples_from_data_augmentation.png
+[image4]: ./figures/random_images_from_internet.png
 [image5]: ./figures/2-stage_ConvNet.png
 
 ## Rubric Points
